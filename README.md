@@ -6,7 +6,7 @@ Contents:
 - [Starting the PHP server](https://github.com/jakeenea51/Phishing-Page#starting-the-php-server)
 - [Setting up the phishing site](https://github.com/jakeenea51/Phishing-Page#setting-up-the-phishing-site)
 - [Retrieving the credentials](https://github.com/jakeenea51/Phishing-Page#retrieving-the-credentials)
-- [Takeaways and awareness](https://github.com/jakeenea51/Phishing-Page#takeaways)
+- [Takeaways and awareness](https://github.com/jakeenea51/Phishing-Page#takeaways-and-awareness)
 
 ## Introduction
 This project demonstrates how a hacker is able to easily create a deceptive phishing site by creating an HTML phishing page, using a PHP server to host the page, and using PHP code to retrieve the login credentials.
