@@ -1,2 +1,4 @@
 # Phishing-Page
-A demonstration on how hackers create phishing pages to steal login information.
+To download:
+cd /home/kali
+git clone https://github.com/jakeenea51/Phishing-Page
